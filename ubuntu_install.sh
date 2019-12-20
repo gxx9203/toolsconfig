@@ -5,3 +5,4 @@ sudo apt-get install -y python3-smbc
 sudo apt-get install -y meld
 sudo apt-get install -y audacity
 sudo apt-get install -y adb fastboot
+sudo apt-get install -y ctags
