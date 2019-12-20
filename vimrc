@@ -1,3 +1,6 @@
+" download vundle ,do follow
+# git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+
 set nocompatible              " be iMproved, required                                                                                                                                                                                                                              
 "set number               "show line number
 set cul
