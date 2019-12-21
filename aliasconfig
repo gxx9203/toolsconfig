@@ -1,0 +1,10 @@
+# append below to  .bashrc 
+# if [ -f .aliasconfig ]; then
+#       . .aliasconfig
+# fi
+
+# then do source ./.bashrc
+
+alias tat="adb shell am start com.android.audiotest/.MainActivity"                                                                                                                                      
+alias pkas="adb shel pkill -f audioserver"
+alias as="adb shell"
