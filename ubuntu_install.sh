@@ -1,3 +1,4 @@
+sudo apt-get  update
 sudo apt-get install -y tree vim tmux
 sudo apt-get install -y repo git
 sudo apt-get install -y python3
@@ -8,6 +9,7 @@ sudo apt-get install -y adb fastboot
 sudo apt-get install -y ctags
 sudo apt-get install -y minicom
 
+sudo apt-get install openjdk-8-jdk
 
 echo "chrome install"
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
