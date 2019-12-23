@@ -10,12 +10,13 @@ sudo apt-get install -y ctags
 sudo apt-get install -y minicom
 sudo apt-get install -y ssh
 sudo apt-get install -y nfs-common
+sudo apt-get install -y net-tools
 
 sudo apt-get install openjdk-8-jdk
 
-echo "chrome install"
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+#echo "chrome install"
+#wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 
-sudo dpkg -i google-chrome-stable_current_amd64.deb
+#sudo dpkg -i google-chrome-stable_current_amd64.deb
 
-echo "please mannaul vysor tools from chrome app store or download from https://www.vysor.io/ by mannaul"
+#echo "please mannaul vysor tools from chrome app store or download from https://www.vysor.io/ by mannaul"
