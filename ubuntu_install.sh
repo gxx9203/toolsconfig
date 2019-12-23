@@ -11,6 +11,7 @@ sudo apt-get install -y minicom
 sudo apt-get install -y ssh
 sudo apt-get install -y nfs-common
 sudo apt-get install -y net-tools
+sudo apt-get instlal -y openconnect
 
 sudo apt-get install openjdk-8-jdk
 
