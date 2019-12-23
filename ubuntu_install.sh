@@ -8,6 +8,8 @@ sudo apt-get install -y audacity
 sudo apt-get install -y adb fastboot
 sudo apt-get install -y ctags
 sudo apt-get install -y minicom
+sudo apt-get install -y ssh
+sudo apt-get install -y nfs-common
 
 sudo apt-get install openjdk-8-jdk
 
