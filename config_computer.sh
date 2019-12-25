@@ -9,6 +9,12 @@ cp ~/.bash_profile ~/.bash_profile_back
 cp ./.vimrc ~/.vimrc
 cp ./.tmux.conf ~/.tmux.conf
 cp ./.bash_profile ~/.bash_profile
+cp ./.git-commit-template ~/.git-commit-template
 
 
 echo "please git enviroment"
+
+echo "please append below to ~/.gitconfig"
+# [commit]
+#      template = ~/.git-commit-template
+
