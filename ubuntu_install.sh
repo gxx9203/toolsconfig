@@ -1,4 +1,5 @@
-sudo apt-get  update
+sudo add-apt-repository ppa:notepadqq-team/notepadqq
+sudo apt-get update
 sudo apt-get install -y tree vim tmux
 sudo apt-get install -y repo git
 sudo apt-get install -y python3
@@ -12,8 +13,8 @@ sudo apt-get install -y ssh
 sudo apt-get install -y nfs-common
 sudo apt-get install -y net-tools
 sudo apt-get instlal -y openconnect
-sudo apt install -y nfs-kernel-server
-sudo snap install --classic notepadqq
+sudo apt-get install -y nfs-kernel-server
+sudo apt-get install -y notepadqq
 
 sudo apt-get install openjdk-8-jdk
 
