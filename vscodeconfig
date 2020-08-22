@@ -1,0 +1,8 @@
+vscode config 
+
+open file at new tab 
+
+change file 
+~/.config/Code/User/settings.json
+add blow 
+"workbench.editor.enablePreview": false
