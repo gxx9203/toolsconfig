@@ -1,9 +1,10 @@
 # this is config for new ubuntu enviroment 
 
-updating 
+## for python pip
 
-
-pip.conf  @ ~/pip/pip.conf
+```
+cp pip.conf  ~/pip/pip.conf
+```
 
 # undistract-me usage
 
