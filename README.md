@@ -22,3 +22,13 @@ see the blow
 ```
 https://github.com/gxx9203/vimplus
 ```
+
+## ubuntu 配置远程桌面 xrdp
+ -  配置xrdp
+
+ 从 https://c-nergy.be/blog/?p=14888  下载脚本  xrdp-installer-1.2.sh
+- 直接执行这个脚本
+
+- 重启设备，注意不能进行登录 ， only support one user 否则黑屏
+
+- ubuntu 可以通过remmina 软件进行登录。
