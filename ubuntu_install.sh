@@ -15,6 +15,7 @@ sudo apt-get install -y net-tools
 sudo apt-get instlal -y openconnect
 sudo apt-get install -y nfs-kernel-server
 sudo apt-get install -y notepadqq
+sudo apt-get install -y filezilla
 
 sudo apt-get install -y openjdk-8-jdk
 
