@@ -16,14 +16,14 @@ sudo apt-get instlal -y openconnect
 sudo apt-get install -y nfs-kernel-server
 sudo apt-get install -y notepadqq
 
-sudo apt-get install openjdk-8-jdk
+sudo apt-get install -y openjdk-8-jdk
 
 #echo "chrome install"
 
 # for long running shell
-sudo apt-get install undistract-me
+sudo apt-get install -y undistract-me
 # for rg
-sudo apt-get install ripgrep
+sudo apt-get install -y ripgrep
 
 echo "Google brower ,please manual do"
 echo " -------------------------------------------
@@ -38,5 +38,8 @@ echo "
 
 echo "for baidu input "
 firefox https://srf.baidu.com/site/guanwang_linux/index.html
+
+echo "for vscode"
+fireforx https://code.visualstudio.com/docs/?dv=linux64_deb
 
 
