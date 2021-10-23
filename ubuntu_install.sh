@@ -50,3 +50,7 @@ firefor https://code.visualstudio.com/docs/?dv=linux64_deb
 echo "for docker "
 firefox https://yeasy.gitbook.io/docker_practice/install/ubuntu
 
+echo "Android Studio"
+firefox https://developer.android.com/studio
+
+
