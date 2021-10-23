@@ -19,14 +19,24 @@ sudo apt-get install -y notepadqq
 sudo apt-get install openjdk-8-jdk
 
 #echo "chrome install"
-#wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-
-#sudo dpkg -i google-chrome-stable_current_amd64.deb
 
 # for long running shell
 sudo apt-get install undistract-me
 # for rg
 sudo apt-get install ripgrep
 
+echo "Google brower ,please manual do"
+echo " -------------------------------------------
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+--------------------------------------------------"
+echo "
+
+
+"
+
+echo "for baidu input "
+firefox https://srf.baidu.com/site/guanwang_linux/index.html
 
 
