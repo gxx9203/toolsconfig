@@ -45,6 +45,8 @@ echo "for baidu input "
 firefox https://srf.baidu.com/site/guanwang_linux/index.html
 
 echo "for vscode"
-fireforx https://code.visualstudio.com/docs/?dv=linux64_deb
+firefor https://code.visualstudio.com/docs/?dv=linux64_deb
 
+echo "for docker "
+firefox https://yeasy.gitbook.io/docker_practice/install/ubuntu
 
