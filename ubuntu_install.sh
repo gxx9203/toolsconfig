@@ -17,9 +17,13 @@ sudo apt-get install -y nfs-kernel-server
 sudo apt-get install -y notepadqq
 sudo apt-get install -y filezilla
 
+#tweaks
+sudo apt install -y gnome-tweak-tool
+sudo apt install -y gnome-shell-extensions
+firefox https://baijiahao.baidu.com/s?id=1633978482357702746&wfr=spider&for=pc
+
 sudo apt-get install -y openjdk-8-jdk
 
-#echo "chrome install"
 
 # for long running shell
 sudo apt-get install -y undistract-me
