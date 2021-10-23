@@ -23,8 +23,10 @@ sudo apt-get install openjdk-8-jdk
 
 #sudo dpkg -i google-chrome-stable_current_amd64.deb
 
-#echo "please mannaul vysor tools from chrome app store or download from https://www.vysor.io/ by mannaul"
-
 # for long running shell
 sudo apt-get install undistract-me
+# for rg
+sudo apt-get install ripgrep
+
+
 
