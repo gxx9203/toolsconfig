@@ -25,6 +25,11 @@ sudo apt-get install -y undistract-me
 # for rg
 sudo apt-get install -y ripgrep
 
+# for repo
+
+curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
+sudo mv ~/bin/repo /usr/bin
+
 echo "Google brower ,please manual do"
 echo " -------------------------------------------
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
