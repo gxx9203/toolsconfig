@@ -16,6 +16,7 @@ sudo apt-get instlal -y openconnect
 sudo apt-get install -y nfs-kernel-server
 sudo apt-get install -y notepadqq
 sudo apt-get install -y filezilla
+sudo apt install -y curl
 
 #tweaks
 sudo apt install -y gnome-tweak-tool
