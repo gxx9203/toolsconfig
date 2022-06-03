@@ -20,6 +20,7 @@ sudo apt install -y curl
 sudo apt install -y dlt-viewer
 sudo apt install -y dlt-tools
 sudo apt install -y htop
+sudo apt install -y libsdl2-2.0-0
 
 #tweaks
 sudo apt install -y gnome-tweak-tool
