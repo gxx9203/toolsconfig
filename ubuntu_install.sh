@@ -17,6 +17,9 @@ sudo apt-get install -y nfs-kernel-server
 sudo apt-get install -y notepadqq
 sudo apt-get install -y filezilla
 sudo apt install -y curl
+sudo apt install -y dlt-viewer
+sudo apt install -y dlt-tools
+sudo apt install -y htop
 
 #tweaks
 sudo apt install -y gnome-tweak-tool
